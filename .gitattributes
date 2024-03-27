@@ -1,0 +1,4 @@
+Vu_HoloLens04/Packages/com.ptc.vuforia.engine-10.13.3.tgz filter=lfs diff=lfs merge=lfs -text
+Coffee_Maker/Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
+Vu_HoloLens04/Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
+Vu_HoloLens04/Assets/Editor/Migration/com.ptc.vuforia.engine-10.13.3.tgz filter=lfs diff=lfs merge=lfs -text

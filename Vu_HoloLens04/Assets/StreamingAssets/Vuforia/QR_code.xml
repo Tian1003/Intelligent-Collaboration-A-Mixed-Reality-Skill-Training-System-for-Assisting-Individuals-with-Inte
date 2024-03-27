@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="QR_006-half" size="0.045000 0.045000" />
+    <ImageTarget name="QR_006" size="0.090000 0.090000" />
+    <ImageTarget name="QR_005-half" size="0.045000 0.045000" />
+    <ImageTarget name="QR_005" size="0.090000 0.090000" />
+    <ImageTarget name="QR_004-half" size="0.045000 0.045000" />
+    <ImageTarget name="QR_003-half" size="0.045000 0.045000" />
+    <ImageTarget name="QR_002-half" size="0.045000 0.045000" />
+    <ImageTarget name="QR_001-half" size="0.045000 0.045000" />
+    <ImageTarget name="QR_004" size="0.090000 0.090000" />
+    <ImageTarget name="QR_003" size="0.090000 0.090000" />
+    <ImageTarget name="QR_002" size="0.090000 0.090000" />
+    <ImageTarget name="QR_001" size="0.090000 0.090000" />
+  </Tracking>
+</QCARConfig>

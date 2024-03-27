@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="cup-lid-30" size="0.045000 0.045000" />
+    <ImageTarget name="cup-lid-15" size="0.045000 0.045000" />
+    <ImageTarget name="coffee-maker-30" size="0.045000 0.045000" />
+    <ImageTarget name="coffee-maker-15" size="0.045000 0.045000" />
+    <ImageTarget name="ice-small-rad-30" size="0.045000 0.045000" />
+    <ImageTarget name="ice-small-rad-15" size="0.045000 0.045000" />
+    <ImageTarget name="ice-medium-blue-30" size="0.045000 0.045000" />
+    <ImageTarget name="ice-medium-blue-15" size="0.045000 0.045000" />
+    <ImageTarget name="ice-large-green-30" size="0.045000 0.045000" />
+    <ImageTarget name="ice-large-green-15" size="0.045000 0.045000" />
+    <ImageTarget name="coffee-cup-medium-30" size="0.045000 0.045000" />
+    <ImageTarget name="coffee-cup-medium-15" size="0.045000 0.045000" />
+    <ImageTarget name="coffee-cup-large-30" size="0.045000 0.045000" />
+    <ImageTarget name="coffee-cup-large-15" size="0.045000 0.045000" />
+  </Tracking>
+</QCARConfig>

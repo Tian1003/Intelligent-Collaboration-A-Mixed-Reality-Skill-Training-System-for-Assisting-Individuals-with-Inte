@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.microsoft.mixedreality.toolkit.examples": {
+      "tarball": {
+        "hash": "42f661a9fb5b",
+        "mtime": 1702374554347,
+        "size": 55195848,
+        "localPath": "C:\\Users\\user\\Unity\\Vu_HoloLens04\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.examples-2.8.3.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.extensions": {
+      "tarball": {
+        "hash": "84fe3e76e9b7",
+        "mtime": 1702374554394,
+        "size": 1131406,
+        "localPath": "C:\\Users\\user\\Unity\\Vu_HoloLens04\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.extensions-2.8.3.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.foundation": {
+      "tarball": {
+        "hash": "f2323a9b7aec",
+        "mtime": 1702374554522,
+        "size": 11691469,
+        "localPath": "C:\\Users\\user\\Unity\\Vu_HoloLens04\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.foundation-2.8.3.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.standardassets": {
+      "tarball": {
+        "hash": "aab256284dc6",
+        "mtime": 1702374554597,
+        "size": 5328617,
+        "localPath": "C:\\Users\\user\\Unity\\Vu_HoloLens04\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.standardassets-2.8.3.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.tools": {
+      "tarball": {
+        "hash": "650cce437d92",
+        "mtime": 1702374554649,
+        "size": 2111115,
+        "localPath": "C:\\Users\\user\\Unity\\Vu_HoloLens04\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.tools-2.8.3.tgz"
+      }
+    },
+    "com.ptc.vuforia.engine": {
+      "tarball": {
+        "hash": "ad7ad60b4246",
+        "mtime": 1702374553635,
+        "size": 146676753,
+        "localPath": "C:\\Users\\user\\Unity\\Vu_HoloLens04\\Packages\\com.ptc.vuforia.engine-10.13.3.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.openxr": {
+      "tarball": {
+        "hash": "dfc0305df3e4",
+        "mtime": 1702374553886,
+        "size": 9382536,
+        "localPath": "C:\\Users\\user\\Unity\\Vu_HoloLens04\\Packages\\MixedReality\\com.microsoft.mixedreality.openxr-1.8.0.tgz"
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="A-009" size="0.150000 0.083689" />
+    <ImageTarget name="A-008" size="0.150000 0.083689" />
+    <ImageTarget name="A-010" size="0.150000 0.083689" />
+    <ImageTarget name="00" size="0.150000 0.083689" />
+    <ImageTarget name="A-001" size="0.150000 0.083689" />
+    <ImageTarget name="A-007" size="0.150000 0.083689" />
+    <ImageTarget name="A-006" size="0.150000 0.083689" />
+    <ImageTarget name="A-005" size="0.150000 0.083689" />
+    <ImageTarget name="A-004" size="0.150000 0.083689" />
+    <ImageTarget name="A-003" size="0.150000 0.083689" />
+    <ImageTarget name="A-002" size="0.150000 0.083689" />
+    <ImageTarget name="20140904004526" size="0.150000 0.083689" />
+    <ImageTarget name="4484405" size="0.150000 0.065781" />
+    <ImageTarget name="frog" size="0.150000 0.191693" />
+    <ImageTarget name="image01" size="0.150000 0.150000" />
+  </Tracking>
+</QCARConfig>
